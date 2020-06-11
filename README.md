@@ -1,0 +1,2 @@
+# oop-game-app
+This is a phrase hunter app that allows the user to select letters from the onscreen keyboard and guess the letters of the phrase.  After 5 incorrect guesses, the user has lost the game and the screen displays a game over message.  If the user correctly guesses the entire phrase before their 5 lives are used up, they have won and a congratulations message is displayed on the screen.
